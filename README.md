@@ -1,6 +1,6 @@
-﻿# football-game-responsive
-•	This is simple static responsive website.
+This is simple static responsive website.
 
-•	User can Show best player of Copa America 2021.
+[Live Website](https://misbahmuib.github.io/football-game-responsive/index.html)
 
-•	Technologies: HTML5, CSS3
+![screencapture-misbahmuib-github-io-football-game-responsive-index-html-2022-02-08-14_11_21](https://user-images.githubusercontent.com/45326654/152945154-3f7ce772-3f26-4176-9282-ec40f639298d.png)
+

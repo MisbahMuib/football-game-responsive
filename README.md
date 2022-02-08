@@ -1,4 +1,4 @@
-This is simple static responsive website.
+This is simple  responsive landing page.
 
 [Live Website](https://misbahmuib.github.io/football-game-responsive/index.html)
 
